@@ -12,3 +12,5 @@ Edits should appear automatically.
 
   Project description: {{ project.description }}
 {% endfor %}
+
+If this shows up but no theme, then you've messed it up somehow.
